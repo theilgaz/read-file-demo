@@ -1,0 +1,8 @@
+﻿Kişi Adı: Şeref
+Kişi Soyadı: Ilgaz
+Kişi Telefonu: 5320000025
+--------------------------
+Kişi Adı: Abdullah
+Kişi Soyadı: Ilgaz
+Kişi Telefonu: 5320000001
+--------------------------
